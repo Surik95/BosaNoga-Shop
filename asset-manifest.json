@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BosaNoga-Shop/static/css/main.df6f00bd.css",
+    "main.js": "/BosaNoga-Shop/static/js/main.552243e4.js",
+    "static/js/787.cc43e090.chunk.js": "/BosaNoga-Shop/static/js/787.cc43e090.chunk.js",
+    "static/media/banner.jpg": "/BosaNoga-Shop/static/media/banner.5fd2c60d58a8686daee0.jpg",
+    "static/media/footer-sprite.png": "/BosaNoga-Shop/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
+    "index.html": "/BosaNoga-Shop/index.html",
+    "main.df6f00bd.css.map": "/BosaNoga-Shop/static/css/main.df6f00bd.css.map",
+    "main.552243e4.js.map": "/BosaNoga-Shop/static/js/main.552243e4.js.map",
+    "787.cc43e090.chunk.js.map": "/BosaNoga-Shop/static/js/787.cc43e090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6f00bd.css",
+    "static/js/main.552243e4.js"
+  ]
+}
