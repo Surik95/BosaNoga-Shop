@@ -2,8 +2,7 @@
 
 ## DEMO
 
-
-https://github.com/Surik95/BosaNoga-Shop 
+https://surik95.github.io/BosaNoga-Shop/
 
 ## Backend Emulation
 

@@ -2,7 +2,7 @@
   "name": "ra16-diploma",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://surik95.github.io/BosaNoga-Shop",
+  "homepage": "https://surik95.github.io/BosaNoga-Shop/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",

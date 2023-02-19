@@ -4,7 +4,7 @@ import logo from '../../../img/header-logo.png';
 
 function Logo() {
   return (
-    <Link className="navbar-brand" href="/">
+    <Link className="navbar-brand" to="/">
       <img src={logo} alt="Bosa Noga" />
     </Link>
   );

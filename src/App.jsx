@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import React from 'react';
-import { createBrowserRouter, RouterProvider, defer } from 'react-router-dom';
+import { RouterProvider, defer, createBrowserRouter } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import About from './pages/About';
 import Main from './pages/Main';
